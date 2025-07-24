@@ -33,6 +33,7 @@
 2. Category Contribution and Discount Strategy
 - Categories such as HomeImprovement and Computers & Accessories offered the highest average discounts (57.5% and 53.92% respectively), indicating an aggressive
   discounting approach.
+  
 - There is no direct correlation between high discounts and high revenue, indicating that discount effectiveness may vary depending on the category.
 
 3. Customer Reviews and Product Ratings
