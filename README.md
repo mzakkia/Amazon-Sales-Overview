@@ -3,7 +3,7 @@
 **Tools used**: Microsoft Excel, Microsoft PowerBI
 
 **Datasets About**:
-“Amazon Product's Ratings and Reviews” ( has 1351 rows )
+“Amazon Product's Ratings and Reviews”
 
 **Source** - > https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset 
 
